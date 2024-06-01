@@ -1,0 +1,1 @@
+10-nearest neighbors accuracy: 0.958041958041958
